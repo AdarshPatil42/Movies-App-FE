@@ -1,0 +1,21 @@
+.navbar{
+    height: 20%;
+    background-color: gray;
+}
+.logo_img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+.nav_tabs{
+    border: 1px solid gainsboro;
+    background-color: rgb(147, 146, 146);
+    margin: 2px;
+}
+.nav_tabs:hover{
+    background-color: rgb(103, 103, 103);
+}
+.link{
+    color: white !important;
+    font-weight: bolder;
+}
